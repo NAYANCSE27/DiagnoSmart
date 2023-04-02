@@ -1,2 +1,5 @@
 1. https://www.kaggle.com/datasets/johndasilva/diabetes
 Above Dataset of diabetes, taken from the hospital Frankfurt, Germany
+
+2. https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
+****** https://www.kaggle.com/code/alexteboul/diabetes-health-indicators-dataset-notebook
