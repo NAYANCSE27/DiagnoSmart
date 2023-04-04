@@ -77,10 +77,10 @@ Train the machine learning model using the preprocessed data. Split the data int
 
 Evaluate the model's performance on the validation set. Metrics such as accuracy, precision, recall, and F1 score can be used to evaluate the model's performance.
 
-Accuracy in diabetes prediction Training data
-![Accuracy in diabetes prediction Training data](https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/9.png "Accuracy in diabetes prediction Training data")
-Accuracy in diabetes prediction Test data
-![Accuracy in diabetes prediction Test data]( https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/10.png "Accuracy in diabetes prediction Test data")
+Accuracy in heart disease prediction Training data
+![Accuracy in heart disease prediction Training data](https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/9.png "Accuracy in heart disease prediction Training data")
+Accuracy in heart disease prediction Test data
+![Accuracy in heart disease prediction Test data]( https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/10.png "Accuracy in heart disease prediction Test data")
 
 **Hyperparameter Tuning:**
 
