@@ -87,6 +87,8 @@ Accuracy in diabetes prediction Training data
 Accuracy in heart disease prediction Test data
 ![Accuracy in  diabetes prediction Test data]( https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/7.png "Accuracy in diabetes prediction Test data")
 
+Training and Validation Accuracy in Pneumonia prediction
+![Training and Validation Accuracy in Pneumonia prediction]( https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/3.png "Training and Validation Accuracy in Pneumonia prediction")
 
 **Hyperparameter Tuning:**
 
