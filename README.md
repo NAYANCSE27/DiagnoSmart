@@ -23,7 +23,7 @@ Risk factors for heart disease include high blood pressure, high cholesterol, sm
 Diagnosis of heart disease involves a physical exam, medical history, and various tests such as an electrocardiogram (ECG), echocardiogram, stress test, or cardiac catheterization. Treatment options for heart disease depend on the type and severity of the condition, but may include lifestyle changes such as diet and exercise, medications, medical procedures, or surgery.
 
 **Motivation for the Project** 
-
+-----------------------------------------------------------------
 The motivation for multiple diseases prediction using machine learning lies in the potential to improve patient outcomes and reduce healthcare costs. By leveraging the power of machine learning algorithms, we can develop models that can accurately predict the likelihood of a patient developing multiple diseases, such as diabetes, heart disease, and cancer.
 
 These models can help healthcare providers identify patients who are at high risk of developing these diseases, allowing for earlier intervention and more targeted preventative measures. For example, if a model predicts that a patient has a high likelihood of developing diabetes, healthcare providers can work with that patient to implement lifestyle changes such as diet and exercise to reduce their risk.
