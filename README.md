@@ -85,13 +85,23 @@ Accuracy in heart disease prediction Training data
 Accuracy in heart disease prediction Test data
 ![Accuracy in heart disease prediction Test data]( https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/10.png "Accuracy in heart disease prediction Test data")
 
+Evaluate for a person
+![Evaluate for a person]( https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/11.png "Evaluate for a person")
+
+
 Accuracy in diabetes prediction Training data
 ![Accuracy in diabetes prediction Training data](https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/6.png "Accuracy in diabetes prediction Training data")
 Accuracy in heart disease prediction Test data
 ![Accuracy in  diabetes prediction Test data]( https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/7.png "Accuracy in diabetes prediction Test data")
 
+Evaluate for a person
+![Evaluate for a person]( https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/8.png "Evaluate for a person")
+
 Training and Validation Accuracy in Pneumonia prediction
 ![Training and Validation Accuracy in Pneumonia prediction]( https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/3.png "Training and Validation Accuracy in Pneumonia prediction")
+
+Evaluate for a person
+![Evaluate for a person]( https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/4.png "Evaluate for a person")
 
 **Hyperparameter Tuning:**
 
