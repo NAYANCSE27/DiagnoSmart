@@ -1,5 +1,37 @@
 # DiagnoSmart
 
+**Pneumonia**
+
+Pneumonia is an infection that inflames the air sacs in one or both lungs. The air sacs may fill with fluid or pus (purulent material), causing cough with phlegm or pus, fever, chills, and difficulty breathing. A variety of organisms, including bacteria, viruses and fungi, can cause pneumonia. Chest X-ray, blood tests, and culture of the sputum may help confirm the diagnosis. The disease may be classified by where it was acquired, such as community- or hospital-acquired or healthcare-associated pneumonia.
+
+**Diabetes**
+
+Diabetes is a chronic medical condition characterized by high blood sugar levels. The hormone insulin, produced by the pancreas, helps regulate blood sugar levels by allowing glucose to enter cells for energy. In people with diabetes, their bodies either do not produce enough insulin or do not use it properly, leading to elevated blood sugar levels.
+
+There are two main types of diabetes:
+1. Type 1 Diabetes: This type of diabetes is an autoimmune disease in which the immune system attacks and destroys the insulin-producing cells in the pancreas. This leads to a lack of insulin in the body, requiring insulin injections for survival.
+2. Type 2 Diabetes: This type of diabetes is the most common and is often associated with lifestyle factors such as poor diet, lack of exercise, and obesity. In this type of diabetes, the body becomes resistant to the effects of insulin, leading to elevated blood sugar levels.
+
+**Heart Disease**
+
+Heart disease refers to a range of conditions that affect the heart and blood vessels. It is one of the leading causes of death worldwide. The most common type of heart disease is coronary artery disease, which is caused by a buildup of plaque in the arteries that supply blood to the heart.
+
+Other types of heart disease include heart failure, arrhythmia (abnormal heart rhythm), heart valve disease, and congenital heart disease (present at birth).
+
+Risk factors for heart disease include high blood pressure, high cholesterol, smoking, obesity, diabetes, family history, and a sedentary lifestyle. Symptoms of heart disease may vary depending on the type of heart disease, but can include chest pain or discomfort, shortness of breath, fatigue, lightheadedness, and heart palpitations.
+
+Diagnosis of heart disease involves a physical exam, medical history, and various tests such as an electrocardiogram (ECG), echocardiogram, stress test, or cardiac catheterization. Treatment options for heart disease depend on the type and severity of the condition, but may include lifestyle changes such as diet and exercise, medications, medical procedures, or surgery.
+
+**Motivation for the Project** 
+
+The motivation for multiple diseases prediction using machine learning lies in the potential to improve patient outcomes and reduce healthcare costs. By leveraging the power of machine learning algorithms, we can develop models that can accurately predict the likelihood of a patient developing multiple diseases, such as diabetes, heart disease, and cancer.
+
+These models can help healthcare providers identify patients who are at high risk of developing these diseases, allowing for earlier intervention and more targeted preventative measures. For example, if a model predicts that a patient has a high likelihood of developing diabetes, healthcare providers can work with that patient to implement lifestyle changes such as diet and exercise to reduce their risk.
+
+Machine learning models can also help with the early detection of diseases, which can lead to better treatment outcomes and lower healthcare costs. By analyzing patient data and identifying patterns, models can identify patients who may have early signs of a disease, even before symptoms appear. This allows for earlier diagnosis and treatment, potentially leading to better outcomes and reduced healthcare costs.
+
+**Steps of the Project**
+-----------------------------------------------------------------
 **Data Collection:**
 
 Collect data on symptoms, medical history, and other relevant factors for patients diagnosed with different diseases. This data can be collected through various sources such as electronic health records (EHR), patient surveys, or other medical records. We have collect our data from the mention sources:
