@@ -72,6 +72,9 @@ Build a machine learning model using the preprocessed and engineered features. T
 
 Train the machine learning model using the preprocessed data. Split the data into training and validation sets to evaluate the model's performance on new, unseen data.
 
+Pneumonia Disease prediction model compiling 
+![Pneumonia Disease prediction model compiling ](https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/2.png "Pneumonia Disease prediction model compiling ")
+
 
 **Model Evaluation:**
 
