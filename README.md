@@ -85,6 +85,8 @@ Training and Validation Accuracy in Pneumonia prediction
 
 Evaluate for a person
 ![Evaluate for a person]( https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/4.png "Evaluate for a person")
+Evaluate for multiple person
+![Evaluate for multiple person]( https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/5.png "Evaluate for multiple person")
 
 Accuracy in heart disease prediction Training data
 ![Accuracy in heart disease prediction Training data](https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/9.png "Accuracy in heart disease prediction Training data")
