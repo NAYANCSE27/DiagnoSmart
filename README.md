@@ -82,6 +82,12 @@ Accuracy in heart disease prediction Training data
 Accuracy in heart disease prediction Test data
 ![Accuracy in heart disease prediction Test data]( https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/10.png "Accuracy in heart disease prediction Test data")
 
+Accuracy in diabetes prediction Training data
+![Accuracy in diabetes prediction Training data](https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/6.png "Accuracy in diabetes prediction Training data")
+Accuracy in heart disease prediction Test data
+![Accuracy in  diabetes prediction Test data]( https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/7.png "Accuracy in diabetes prediction Test data")
+
+
 **Hyperparameter Tuning:**
 
 Optimize the model's hyperparameters to improve its performance on the validation set. This can be done using techniques such as:
