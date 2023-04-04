@@ -110,6 +110,10 @@ Deploy the trained model into a production environment. This can be done using v
 
 Create a user interface that allows users to input their symptoms and medical history, and receive predictions for their likelihood of having a particular disease. This can be done using libraries such as streamlit, Tkinter or PyQt.
 
+Pneumonia Prediction Page
+![Pneumonia Prediction Page](https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/12.JPG "Pneumonia Prediction Page")
+![Pneumonia Prediction Page1](https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/13.JPG "Pneumonia Prediction Page1")
+
 
 **Testing and Maintenance:**
 
