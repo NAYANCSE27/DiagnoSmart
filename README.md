@@ -73,7 +73,7 @@ Build a machine learning model using the preprocessed and engineered features. T
 Train the machine learning model using the preprocessed data. Split the data into training and validation sets to evaluate the model's performance on new, unseen data.
 
 Pneumonia Disease prediction model compiling 
-![Pneumonia Disease prediction model compiling ](https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/2.png "Pneumonia Disease prediction model compiling ")
+![Pneumonia Disease prediction model compiling ](https://github.com/NAYANCSE27/DiagnoSmart/blob/final/images/2.png "Pneumonia Disease prediction model compiling ")
 
 
 **Model Evaluation:**
@@ -81,29 +81,29 @@ Pneumonia Disease prediction model compiling
 Evaluate the model's performance on the validation set. Metrics such as accuracy, precision, recall, and F1 score can be used to evaluate the model's performance.
 
 Training and Validation Accuracy in Pneumonia prediction
-![Training and Validation Accuracy in Pneumonia prediction]( https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/3.png "Training and Validation Accuracy in Pneumonia prediction")
+![Training and Validation Accuracy in Pneumonia prediction]( https://github.com/NAYANCSE27/DiagnoSmart/blob/final/images/3.png "Training and Validation Accuracy in Pneumonia prediction")
 
 Evaluate for a person
-![Evaluate for a person]( https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/4.png "Evaluate for a person")
+![Evaluate for a person]( https://github.com/NAYANCSE27/DiagnoSmart/blob/final/images/4.png "Evaluate for a person")
 Evaluate for multiple person
-![Evaluate for multiple person]( https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/5.png "Evaluate for multiple person")
+![Evaluate for multiple person]( https://github.com/NAYANCSE27/DiagnoSmart/blob/final/images/5.png "Evaluate for multiple person")
 
 Accuracy in heart disease prediction Training data
-![Accuracy in heart disease prediction Training data](https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/9.png "Accuracy in heart disease prediction Training data")
+![Accuracy in heart disease prediction Training data](https://github.com/NAYANCSE27/DiagnoSmart/blob/final/images/9.png "Accuracy in heart disease prediction Training data")
 Accuracy in heart disease prediction Test data
-![Accuracy in heart disease prediction Test data]( https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/10.png "Accuracy in heart disease prediction Test data")
+![Accuracy in heart disease prediction Test data]( https://github.com/NAYANCSE27/DiagnoSmart/blob/final/images/10.png "Accuracy in heart disease prediction Test data")
 
 Evaluate for a person
-![Evaluate for a person]( https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/11.png "Evaluate for a person")
+![Evaluate for a person]( https://github.com/NAYANCSE27/DiagnoSmart/blob/final/images/11.png "Evaluate for a person")
 
 
 Accuracy in diabetes prediction Training data
-![Accuracy in diabetes prediction Training data](https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/6.png "Accuracy in diabetes prediction Training data")
+![Accuracy in diabetes prediction Training data](https://github.com/NAYANCSE27/DiagnoSmart/blob/final/images/6.png "Accuracy in diabetes prediction Training data")
 Accuracy in heart disease prediction Test data
-![Accuracy in  diabetes prediction Test data]( https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/7.png "Accuracy in diabetes prediction Test data")
+![Accuracy in  diabetes prediction Test data]( https://github.com/NAYANCSE27/DiagnoSmart/blob/final/images/7.png "Accuracy in diabetes prediction Test data")
 
 Evaluate for a person
-![Evaluate for a person]( https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/8.png "Evaluate for a person")
+![Evaluate for a person]( https://github.com/NAYANCSE27/DiagnoSmart/blob/final/images/8.png "Evaluate for a person")
 
 **Hyperparameter Tuning:**
 
@@ -126,8 +126,8 @@ Deploy the trained model into a production environment. This can be done using v
 Create a user interface that allows users to input their symptoms and medical history, and receive predictions for their likelihood of having a particular disease. This can be done using libraries such as streamlit, Tkinter or PyQt.
 
 Pneumonia Prediction Page
-![Pneumonia Prediction Page](https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/12.JPG "Pneumonia Prediction Page")
-![Pneumonia Prediction Page1](https://github.com/NAYANCSE27/DiagnoSmart/blob/main/images/13.JPG "Pneumonia Prediction Page1")
+![Pneumonia Prediction Page](https://github.com/NAYANCSE27/DiagnoSmart/blob/final/images/12.JPG "Pneumonia Prediction Page")
+![Pneumonia Prediction Page1](https://github.com/NAYANCSE27/DiagnoSmart/blob/final/images/13.JPG "Pneumonia Prediction Page1")
 
 
 **Testing and Maintenance:**
